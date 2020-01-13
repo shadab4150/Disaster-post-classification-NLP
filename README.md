@@ -49,4 +49,4 @@ This is clear to a human right away, especially with the visual aid. But it’s 
 
 ![kd](https://i.ibb.co/Qj8RyPD/tweet-comp.jpg)
 
-* **A great thanks to jeremy howard for fast.ai deep learning libraries.
+* **A great thanks to jeremy howard for fast.ai deep learning libraries.**
