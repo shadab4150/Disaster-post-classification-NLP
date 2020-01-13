@@ -44,7 +44,8 @@ This is clear to a human right away, especially with the visual aid. But it’s 
 
 ![kd](https://i.ibb.co/8bppzwm/top-losses.jpg)
 
-## For fun lets see how accurate the language learner model can complete sentenses and post.
+* The final models has been saved [**here.**](https://drive.google.com/drive/folders/1q0BLeyVlNhkGDtFpaQ1oKwc1A6HDRGCY?usp=sharing)
+## For fun lets see how accurate the language learner model can complete sentences and post.
 
 ![kd](https://i.ibb.co/Qj8RyPD/tweet-comp.jpg)
 
