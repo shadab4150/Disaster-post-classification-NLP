@@ -23,11 +23,12 @@ This is clear to a human right away, especially with the visual aid. But it’s 
 
 * This dataset was created by the company **figure-eight** and originally shared on their [**‘Data For Everyone’**](https://www.figure-eight.com/data-for-everyone/) website.
 
-* First step was building a language model which can learn and under stand tweets.
+* First step was building a language model which can learn and understand tweets.
 
 * I was able to get an accuracy of 49% with help of learning rate finder.
 
-![kd](https://i.ibb.co/bdk3vtv/lm1.jpg)
+![kd](https://i.ibb.co/9Z3Gbqc/sha12.jpg)
+![kd](https://i.ibb.co/kGrwBRH/sha1212.jpg)
 
 * Then I build a classification model to classify the post as real or fake.
 * And was able to achieve an accuracy of **80.3681 %.**
