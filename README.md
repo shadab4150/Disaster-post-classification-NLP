@@ -16,7 +16,7 @@ But, it’s not always clear whether a person’s words are actually announcing 
 The author explicitly uses the word “ABLAZE” but means it metaphorically. 
 This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
 
-* In this project I  build a machine learning model that predicts which posts are about real disasters and which one’s aren’t.
+* In this project I  build a deep learning model that classifies which posts are about real disasters and which one’s aren’t.
 
 * **Disclaimer: The dataset for this model contains text that may be considered profane, vulgar, or offensive.**
 ### Acknowledgments
